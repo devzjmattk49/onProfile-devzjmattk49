@@ -8,7 +8,7 @@
     </td>
     <td align="right">
       <a href="https://x.com/zeusj_mattk49" target="_blank">
-        <img src="https://img.shields.io/badge/X-zeusj_mattk49-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="@zeusj_mattk49 on X" />
+        <img src="https://img.shields.io/badge/zeusj_mattk49-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="@zeusj_mattk49 on X" />
       </a>
     </td>
   </tr>
@@ -67,23 +67,27 @@
   </a>
 </p>
 
-<!-- SKILLS (from resume screenshot) -->
+<!-- SKILLS (from resume screenshot) - SINGLE LINE, SUPERIOR FORMAT -->
 <h1 align="left">🧠 Technical Skills</h1>
 <div align="left">
-  • <b>Programming:</b> Python, Java, C, JavaScript, HTML, CSS<br>
-  • <b>UI/UX Design:</b> Figma, Wireframing, Prototyping, Design Thinking<br>
-  • <b>Graphics & Designing:</b> Adobe Creative Suite, Photoshop, Illustrator, After Effects, Logo Design, Branding<br>
-  • <b>Web Development & Design</b><br>
-  • <b>Data Analysis & Visualization</b><br>
+  💻 <b>Programming:</b> Python | Java | C | JavaScript | HTML | CSS<br>
+  🎨 <b>UI/UX Design:</b> Figma | Wireframing | Prototyping | Design Thinking<br>
+  🖼️ <b>Graphics & Designing:</b> Adobe Creative Suite | Photoshop | Illustrator | After Effects | Logo Design | Branding<br>
+  🌐 <b>Web Development & Design:</b> Responsive Layouts | Frontend Frameworks | React<br>
+  📊 <b>Data Analysis & Visualization:</b> Excel | MySQL | Jupyter | Data Insights | Power BI<br>
 </div>
 
-<h1 align="left">🤝 Skills</h1>
+<br>
+
+<h1 align="left">🤝 Core Competencies</h1>
 <div align="left">
-  • <b>Problem Solving & Creative Thinking</b><br>
-  • <b>Project Management & Time Management</b><br>
-  • <b>Team Collaboration & Communication</b><br>
-  • <b>Attention to Detail & Adaptability</b><br>
+  🧩 <b>Problem Solving & Creative Thinking:</b> Algorithm design | Debugging | Innovation<br>
+  ⏱️ <b>Project Management & Time Management:</b> Task prioritization | Deadline adherence | Agile methodology<br>
+  👥 <b>Team Collaboration & Communication:</b> Cross-functional teamwork | Clear documentation | Client interaction<br>
+  🎯 <b>Attention to Detail & Adaptability:</b> Quality assurance | Continuous learning | Flexibility<br>
 </div>
+
+
 
 <h1 align="center">🏁 MY SPACE ✅</h1>
 

@@ -24,7 +24,7 @@
   - 🌱 Learning **Advanced Frontend & Database queries**<br>
   - 👯 Looking to **collaborate with developers**<br>
   - 💬 Ask about **Technical & dev queries**<br>
-  - 📫 Reach me: zeus.mathew721@gmail.com
+  - 📫 Reach me: <a href="mailto:zeus.mathew721@gmail.com">zeus.mathew721@gmail.com</a>
 </div>
 
 <h1 align="center">🏁 MY SPACE ✅</h1> 
@@ -60,16 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop" />
 </div>
 
-
-<div style="display: flex; justify-content: center; gap: 10px; margin: 10px 0;">
-  ### 🔗 <span style="color: cyan;">🔗 Connect with me 💻🌐</span>
-<div style="display: flex; justify-content: center; gap: 10px; margin: 10px 0;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="header" />
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" height="28" alt="header" />
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" height="28" alt="header" />
-</div>
-
-</div>
+### 🔗 Connect with me 💻🌐
 <div align="center">
   <a href="https://www.linkedin.com/in/zeusjmattk49/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn zeusjmattk49" />
@@ -87,7 +78,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail" />
   </a>
 </div>
-
 
 <h3 align="center"><b>Status Trophies:</b></h3>
 <p align="center">

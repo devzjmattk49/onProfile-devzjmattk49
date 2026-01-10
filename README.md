@@ -1,19 +1,3 @@
-<!-- TOP BAR: Portfolio (Left) + X (Right) -->
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="https://myownsite-emerald.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-My%20Own%20Site-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://x.com/zeusj_mattk49" target="_blank">
-        <img src="https://img.shields.io/badge/zeusj_mattk49-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="@zeusj_mattk49 on X" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <h1 align="right">Hi 👋, I'm devZeusJ MAtt.k</h1>
 
 <h4 align="right">
@@ -28,26 +12,34 @@
 <h3 align="center">CHALLENGING SITUATIONS = OPPORTUNITIES FOR GROWTH! 🚀📈</h3>
 <p align="right">#JuniorDev #CodeLife #TechEnthusiast 💡💻🚀🌐🛠️</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=devzjmattk49&show_icons=true&theme=holi&card_width=380&title_color=faff39&text_color=00ffff"
-    height="180"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzjmattk49&layout=compact&theme=holi&title_color=faff39&text_color=00ffff"
-    height="180"
-    alt="Top languages"
-  />
-</p>
+<hr>
+
+<!-- QUICK STATS & FEATURED PROJECTS (TOP SECTION) -->
+<h2 align="center">💡 Quick Stats & Featured Work</h2>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <strong>📚 Repositories</strong><br>
+      <img src="https://img.shields.io/badge/Active%20Repos-15+-00C4CC?style=flat&logo=github" />
+    </td>
+    <td align="center" width="33%">
+      <strong>🎯 Focus Areas</strong><br>
+      <img src="https://img.shields.io/badge/UI%2FUX%20%7C%20Full%20Stack%20%7C%20AI-FF69B4?style=flat" />
+    </td>
+    <td align="center" width="33%">
+      <strong>🚀 Current Goal</strong><br>
+      <img src="https://img.shields.io/badge/Building%20AI%20Products-4B0082?style=flat&logo=rocket" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=devzjmattk49&theme=prussian&hide_border=true"
-    height="160"
-    alt="GitHub streak"
-  />
+  <a href="https://github.com/devzjmattk49?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-00C4CC?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+  </a>
 </p>
+
+<hr>
 
 <h1 align="left"><b>About ME!</b></h1>
 <div align="left">
@@ -60,35 +52,41 @@
 
 <br>
 
-<!-- Resume: Upload a PDF into this repo (recommended name: Resume.pdf), then keep the link below -->
+<!-- Resume: Upload a PDF into this repo (recommended name: Resume.pdf) -->
 <p align="left">
   <a href="./Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
   </a>
 </p>
 
-<!-- SKILLS (from resume screenshot) - SINGLE LINE, SUPERIOR FORMAT -->
+<hr>
+
+<!-- TECHNICAL SKILLS -->
 <h1 align="left">🧠 Technical Skills</h1>
 <div align="left">
-  💻 <b>Programming:</b> Python | Java | C | JavaScript | HTML | CSS<br>
+  💻 <b>Programming:</b> Python | Java | C | JavaScript | HTML | CSS | PHP<br>
   🎨 <b>UI/UX Design:</b> Figma | Wireframing | Prototyping | Design Thinking<br>
-  🖼️ <b>Graphics & Designing:</b> Adobe Creative Suite | Photoshop | Illustrator | After Effects | Logo Design | Branding<br>
-  🌐 <b>Web Development & Design:</b> Responsive Layouts | Frontend Frameworks | React<br>
-  📊 <b>Data Analysis & Visualization:</b> Excel | MySQL | Jupyter | Data Insights | Power BI<br>
+  🖼️ <b>Graphics & Designing:</b> Adobe Creative Suite | Photoshop | Illustrator | After Effects | Logo Design | Branding | Affinity Designer | CorelDRAW<br>
+  🌐 <b>Web Development & Design:</b> Responsive Layouts | Frontend Frameworks | React | Vue.js<br>
+  🔧 <b>Backend & Databases:</b> Django | Laravel | Node.js | Express | MySQL | MongoDB<br>
+  📊 <b>Data Analysis & Visualization:</b> Excel | MySQL | Jupyter | Power BI | Data Insights<br>
+  🤖 <b>AI & Automation:</b> Perplexity AI | Google Gemini | Cursor AI | Comet | Warp | Ideogram | Adobe Firefly | PicSart | Quillbot | ImagineART<br>
+  🛠️ <b>IDEs & Tools:</b> VS Code | IntelliJ IDEA | Sublime Text | Android Studio | NetBeans | Eclipse<br>
 </div>
 
 <br>
 
 <h1 align="left">🤝 Core Competencies</h1>
 <div align="left">
-  🧩 <b>Problem Solving & Creative Thinking:</b> Algorithm design | Debugging | Innovation<br>
+  🧩 <b>Problem Solving & Creative Thinking:</b> Algorithm design | Debugging | Innovation | AI-assisted coding<br>
   ⏱️ <b>Project Management & Time Management:</b> Task prioritization | Deadline adherence | Agile methodology<br>
   👥 <b>Team Collaboration & Communication:</b> Cross-functional teamwork | Clear documentation | Client interaction<br>
-  🎯 <b>Attention to Detail & Adaptability:</b> Quality assurance | Continuous learning | Flexibility<br>
+  🎯 <b>Attention to Detail & Adaptability:</b> Quality assurance | Continuous learning | Flexibility | AI integration<br>
 </div>
 
+<hr>
 
-
+<!-- MY SPACE - COMPLETE TOOLKIT -->
 <h1 align="center">🏁 MY SPACE ✅</h1>
 
 <h3>🍧 <b>DESIGN TOOLS</b></h3>
@@ -99,14 +97,21 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer" />
+  <img src="https://img.shields.io/badge/CorelDRAW-33CC33?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
 </p>
 
 <h3>💻 <b>CODE EDITOR & IDEs</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/VS%20Code%20Insiders-24BFA5?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Insiders" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Sublime Text" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeans&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
 </p>
 
 <h3>🛠️ <b>DEVOPS & VCS</b></h3>
@@ -119,6 +124,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
@@ -128,7 +134,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-<h3>💯 <b>CORE SKILLS & LANGUAGES</b></h3>
+<h3>💛 <b>CORE LANGUAGES & FRONTEND</b></h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" />
@@ -137,10 +143,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" alt="Vue.js" />
 </p>
 
+<h3>🔧 <b>BACKEND FRAMEWORKS & DATABASES</b></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<h3>🤖 <b>AI & AUTOMATION SKILLS (Advanced Futuristic)</b></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Perplexity%20AI-000000?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity AI" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />
+  <img src="https://img.shields.io/badge/Comet%20AI-FF6B6B?style=for-the-badge&logo=comet&logoColor=white" alt="Comet AI" />
+  <img src="https://img.shields.io/badge/Warp%20Terminal-2E5C3E?style=for-the-badge&logo=warp&logoColor=white" alt="Warp Terminal" />
+  <img src="https://img.shields.io/badge/Ideogram%20AI-4B0082?style=for-the-badge&logo=ideogram&logoColor=white" alt="Ideogram AI" />
+  <img src="https://img.shields.io/badge/Adobe%20Firefly-EB008B?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Firefly" />
+  <img src="https://img.shields.io/badge/PicSart%20AI-3366FF?style=for-the-badge&logo=picsart&logoColor=white" alt="PicSart AI" />
+  <img src="https://img.shields.io/badge/Quillbot%20AI-1890FF?style=for-the-badge&logo=quillbot&logoColor=white" alt="Quillbot AI" />
+  <img src="https://img.shields.io/badge/ImagineART%20AI-FF1493?style=for-the-badge&logo=imagineai&logoColor=white" alt="ImagineART AI" />
+</p>
+
+<hr>
+
+<!-- CONNECT WITH ME -->
 <h2 align="center">🔗 Connect with me 💻🌐</h2>
 <p align="center">
   <a href="https://myownsite-emerald.vercel.app" target="_blank">
@@ -163,13 +196,28 @@
   </a>
 </p>
 
-<h3 align="center"><b>Status Trophies:</b></h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devzjmattk49&theme=algolia" alt="Trophies" />
-</p>
+<hr>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devzjmattk49&label=Profile%20views&color=00b5b5&style=plastic" alt="Profile views" />
-</p>
+<!-- GITHUB INSIGHTS & ACTIVITY -->
+<h2 align="center">📈 GitHub Insights & Activity</h2>
 
-<p align="center"><b>Thanks for checking out my GitHub Profile!</b> 🙏 🫂</p>
+---
+
+---
+
+## 📈 GitHub Activity
+
+**Contribution Streak:**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devzjmattk49&theme=holi&hide_border=false)
+
+**Contribution Graph:**
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devzjmattk49&theme=holi&hide_border=true&area=true)
+
+---
+
+<p align="center"><b>🙏 Thanks for visiting! Feel free to fork, star, and contribute! 🌟</b></p>
+
+
+<p align="center"><b>🙏 Thanks for visiting! Feel free to fork, star, and contribute! 🌟</b></p>

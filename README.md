@@ -6,7 +6,7 @@
 
 <p align="right">
   <a href="https://x.com/zeusj_mattk49" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="zeusj_mattk49" />
+    <img src="https://img.shields.io/badge/X-zeusj__mattk49-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="@zeusj_mattk49" />
   </a> 
 </p>
 

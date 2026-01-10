@@ -199,25 +199,15 @@
 <hr>
 
 <!-- GITHUB INSIGHTS & ACTIVITY -->
-<h2 align="center">📈 GitHub Insights & Activity</h2>
+<h2 align="center">📊 GitHub Overview & Activity📈</h2>
 
----
 
----
+<!--[![GitHub](https://img.shields.io/badge/GitHub-devzjmattk49-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devzjmattk49)-->
+![Contributions](https://img.shields.io/badge/Contributions-788-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+![Streak](https://img.shields.io/badge/Current%20Streak-3%20Days-orange?style=for-the-badge&logo=fire&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=devzjmattk49&label=Profile%20Views&color=00C4CC&style=flat-square)
 
-## 📈 GitHub Activity
-
-**Contribution Streak:**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devzjmattk49&theme=holi&hide_border=false)
-
-**Contribution Graph:**
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devzjmattk49&theme=holi&hide_border=true&area=true)
-
----
-
-<p align="center"><b>🙏 Thanks for visiting! Feel free to fork, star, and contribute! 🌟</b></p>
+![Contribution Graph](https://ghchart.rshah.org/409ba5/devzjmattk49)
 
 
 <p align="center"><b>🙏 Thanks for visiting! Feel free to fork, star, and contribute! 🌟</b></p>

@@ -60,8 +60,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop" />
 </div>
 
-### Connect with me:
-### Connect with me:
+
+<div style="display: flex; justify-content: center; gap: 10px; margin: 10px 0;">
+  ### 🔗 <span style="color: cyan;">🔗 Connect with me 💻🌐</span>
+<div style="display: flex; justify-content: center; gap: 10px; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="header" />
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" height="28" alt="header" />
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" height="28" alt="header" />
+</div>
+
+</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/zeusjmattk49/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn zeusjmattk49" />

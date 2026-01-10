@@ -1,3 +1,19 @@
+<!-- TOP BAR: Portfolio (Left) + X (Right) -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://myownsite-emerald.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-My%20Own%20Site-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://x.com/zeusj_mattk49" target="_blank">
+        <img src="https://img.shields.io/badge/X-zeusj_mattk49-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="@zeusj_mattk49 on X" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <h1 align="right">Hi 👋, I'm devZeusJ MAtt.k</h1>
 
 <h4 align="right">
@@ -11,15 +27,6 @@
 
 <h3 align="center">CHALLENGING SITUATIONS = OPPORTUNITIES FOR GROWTH! 🚀📈</h3>
 <p align="right">#JuniorDev #CodeLife #TechEnthusiast 💡💻🚀🌐🛠️</p>
-
-<p align="right">
-  <a href="https://x.com/zeusj_mattk49" target="_blank">
-    <img
-      src="https://img.shields.io/badge/X-zeusj_mattk49-1DA1F2?style=for-the-badge&logo=x&logoColor=white"
-      alt="@zeusj_mattk49 on X"
-    />
-  </a>
-</p>
 
 <p align="center">
   <img
@@ -59,6 +66,24 @@
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
   </a>
 </p>
+
+<!-- SKILLS (from resume screenshot) -->
+<h1 align="left">🧠 Technical Skills</h1>
+<div align="left">
+  • <b>Programming:</b> Python, Java, C, JavaScript, HTML, CSS<br>
+  • <b>UI/UX Design:</b> Figma, Wireframing, Prototyping, Design Thinking<br>
+  • <b>Graphics & Designing:</b> Adobe Creative Suite, Photoshop, Illustrator, After Effects, Logo Design, Branding<br>
+  • <b>Web Development & Design</b><br>
+  • <b>Data Analysis & Visualization</b><br>
+</div>
+
+<h1 align="left">🤝 Skills</h1>
+<div align="left">
+  • <b>Problem Solving & Creative Thinking</b><br>
+  • <b>Project Management & Time Management</b><br>
+  • <b>Team Collaboration & Communication</b><br>
+  • <b>Attention to Detail & Adaptability</b><br>
+</div>
 
 <h1 align="center">🏁 MY SPACE ✅</h1>
 
@@ -114,6 +139,9 @@
 
 <h2 align="center">🔗 Connect with me 💻🌐</h2>
 <p align="center">
+  <a href="https://myownsite-emerald.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-myownsite--emerald.vercel.app-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/zeusjmattk49/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-zeusjmattk49-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>

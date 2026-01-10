@@ -6,9 +6,10 @@
 
 <p align="right">
   <a href="https://x.com/zeusj_mattk49" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="zeusj_mattk49" />
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="zeusj_mattk49" />
   </a> 
 </p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devzjmattk49&show_icons=true&theme=holi&card_width=380&title_color=faff39&text_color=00ffff" height="180" />

@@ -1,12 +1,12 @@
-<h1 align="right">Hi 👋, I'm devZeusJ MAtt.K</h1>
+<h1 align="right">Hi 👋, I'm devZeusJ MAtt.k</h1>
 <h4 align="right"><i>Hello, Coding Universe! I'm a trailblazing, problem-solving junior developer! 💻🚀</i></h4> 
 <p align="center">Fueled by passion for improving user experiences and technology, I create innovative solutions. My coding journey is <b>#InTheEarlyStages</b>, powered by determination, endless learning, and coffee ☕.</p> 
 <h3 align="center">CHALLENGING SITUATIONS = OPPORTUNITIES FOR GROWTH! 🚀📈</h3>
 <p align="right">#JuniorDev #CodeLife #TechEnthusiast 💡💻🚀🌐🛠️</p>
 
 <p align="right">
-  <a href="https://twitter.com/mrzeusmathew007" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mrzeusmathew007?logo=twitter&style=for-the-badge&text_color=00ffff" alt="mrzeusmathew007" />
+  <a href="https://x.com/zeusj_mattk49" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="zeusj_mattk49" />
   </a> 
 </p>
 
@@ -62,18 +62,12 @@
 
 ### Connect with me:
 <div align="center">
-  <a href="https://www.linkedin.com/in/zeusjmattk49" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
-  </a>
-  <a href="https://www.behance.net/creatordjmk49" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="32" />
-  </a>
-  <a href="mailto:zeus.mathew721@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
-  </a>
-  <a href="https://twitter.com/mrzeusmathew007" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="32" />
-  </a>
+ <a href="https://www.linkedin.com/in/zeusjmattk49/" target="_blank">LinkedIn</a>
+<a href="https://www.behance.net/creatordjmk49" target="_blank">Behance</a>
+<a href="https://dev.to/devzjmattk49" target="_blank">dev.to</a>
+<a href="https://www.instagram.com/zeusj_mattk49" target="_blank">Instagram</a>
+<a href="mailto:zeus.mathew721@gmail.com">Gmail</a>
+
 </div>
 
 <h3 align="center"><b>Status Trophies:</b></h3>

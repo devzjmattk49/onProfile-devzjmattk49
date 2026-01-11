@@ -17,22 +17,46 @@
 
 <!-- QUICK STATS & FEATURED PROJECTS (TOP SECTION) -->
 <h2 align="center">💡 Quick Stats & Featured Work</h2>
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
       <strong>📚 Repositories</strong><br>
-      <img src="https://img.shields.io/badge/Active%20Repos-15+-00C4CC?style=flat&logo=github" />
+      <img src="https://img.shields.io/badge/Active%20Repos-15+-00C4CC?style=flat&logo=github" alt="Repos" />
     </td>
     <td align="center" width="33%">
       <strong>🎯 Focus Areas</strong><br>
-      <img src="https://img.shields.io/badge/UI%2FUX%20%7C%20Graphics%20%7C%20AI%20Marketing-FF69B4?style=flat" />
+      <img src="https://img.shields.io/badge/UI%2FUX%20%7C%20Graphics%20%7C%20AI%20Marketing-FF69B4?style=flat" alt="Focus Areas" />
     </td>
     <td align="center" width="33%">
-      <strong>🚀 Current Goal</strong><br>
-      <img src="https://img.shields.io/badge/AI%20Digital%20Marketing%20Projects-4B0082?style=flat&logo=rocket" />
+      <strong>🔗 View All Projects</strong><br>
+      <a href="https://github.com/devzjmattk49?tab=repositories">
+        <img src="https://img.shields.io/badge/GitHub-Projects-121011?style=flat&logo=github&logoColor=white" alt="View Projects" />
+      </a>
     </td>
   </tr>
 </table>
+
+<h3 align="center">🎯 Current Goals & Status</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <strong>🔭 Currently Working</strong><br>
+      <img src="https://img.shields.io/badge/Freelance%20DeSigner-Drisya%20Multimedia-00C4CC?style=flat&logo=freelancer" alt="Freelance DeSigner" />
+    </td>
+    <td align="center" width="33%">
+      <strong>🌱 Learning Goals</strong><br>
+      <img src="https://img.shields.io/badge/AI%20Digital%20Marketing%20Projects-4B0082?style=flat&logo=rocket" alt="AI Marketing" /><br>
+      <img src="https://img.shields.io/badge/Data%20Analyst%20Projects-FF6B6B?style=flat&logo=analytics" alt="Data Analyst" />
+    </td>
+    <td align="center" width="33%">
+      <strong>👯 Open For</strong><br>
+      <img src="https://img.shields.io/badge/Collaborations-Developers%20%26%20Marketers-4ECDC4?style=flat&logo=handshake" alt="Collaborations" />
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <a href="DIONJmainfinal_020126.pdf" target="_blank">
@@ -111,9 +135,11 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black" alt="Illustrator" />
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Creative Suite" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer" />
   <img src="https://img.shields.io/badge/CorelDRAW-33CC33?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
+  <img src="https://img.shields.io/badge/Blender-E8952C?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
 ### 💻 Code Editors & IDEs
@@ -127,7 +153,10 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Notepad++-2E7D32?style=for-the-badge&logo=notepadplusplus&logoColor=white" alt="Notepad++" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
 </p>
+
 
 ### 🛠️ DevOps & VCS
 <p align="center">
@@ -145,6 +174,7 @@
 
 ### 📱 Mobile & Frameworks
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>

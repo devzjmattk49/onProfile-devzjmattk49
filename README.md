@@ -35,7 +35,7 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/devzjmattk49?tab=repositories" target="_blank">
+  <a href="DIONJmainfinal_020126.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-00C4CC?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
   </a>
 </p>

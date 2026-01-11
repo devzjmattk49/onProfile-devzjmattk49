@@ -228,9 +228,22 @@
   <img src="https://img.shields.io/badge/A%2FB%20Testing-7C3AED?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="A/B Testing" />
   <img src="https://img.shields.io/badge/CRO-111827?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="CRO" />
 </p>
-
 <hr>
+<h3> 📊<b> GitHub Overview</b></h3>
 
+<p align="center">
+  <a href="https://github.com/devzjmattk49">
+    <img src="https://img.shields.io/badge/GitHub-devzjmattk49-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Contributions-788-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Current%20Streak-3%20Days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Streak" />
+  <img src="https://komarev.com/ghpvc/?username=devzjmattk49&label=Profile%20Views&color=00C4CC&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  
+![Contribution Graph](https://ghchart.rshah.org/409ba5/devzjmattk49)
+</p>
 <!-- [Keep your CONNECT WITH ME and GITHUB INSIGHTS sections unchanged] -->
 
 <p align="center"><b>🙏 Thanks for visiting! Feel free to fork, star, and contribute! 🌟</b></p>

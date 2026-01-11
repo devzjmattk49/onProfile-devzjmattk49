@@ -50,8 +50,8 @@
     <img src="https://img.shields.io/badge/Design%20Portfolio-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio" />
   </a>
   
-  <a href="./Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/myResume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+  <a href="/DIONJmainfinal_020126.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/myResume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="DIONJmainfinal_020126.pdf" />
   </a>
 </h1>
 
